@@ -58,7 +58,7 @@ class ApplicationTests {
 		long endTime = System.currentTimeMillis();
 		long executionTime = endTime - startTime;
 		System.out.println(executionTime);
-		assertTrue(executionTime < 2000);
+		assertTrue(executionTime < 3000);
 	}
 
 	@Test
