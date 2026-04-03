@@ -1,4 +1,11 @@
 [![CI/CD Pipeline](https://github.com/andrescortesg1/lab22026git/actions/workflows/build.yml/badge.svg)](https://github.com/andrescortesg1/lab22026git/actions/workflows/build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=andrescortesg1_lab22026git&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=andrescortesg1_lab22026git)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=andrescortesg1_lab22026git&metric=bugs)](https://sonarcloud.io/summary/new_code?id=andrescortesg1_lab22026git)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=andrescortesg1_lab22026git&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=andrescortesg1_lab22026git)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=andrescortesg1_lab22026git&metric=coverage)](https://sonarcloud.io/summary/new_code?id=andrescortesg1_lab22026git)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=andrescortesg1_lab22026git&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=andrescortesg1_lab22026git)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=andrescortesg1_lab22026git&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=andrescortesg1_lab22026git)
+
 
 # lab22026git
 Implementation of a Simple App with the next operations:
