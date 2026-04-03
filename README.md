@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/andrescortesg1/lab22026git/actions/workflows/build.yml/badge.svg)](https://github.com/andrescortesg1/lab22026git/actions/workflows/build.yml)
+
 # lab22026git
 Implementation of a Simple App with the next operations:
 
